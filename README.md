@@ -13,3 +13,7 @@ Run The Script!
 
 Now Wait 5 Seconds And It Will Randomly Pick A Script From The Directory And Type It Out Line By Line,
 To Exit/Stop It Click Escape.
+
+## Want More Scripts?
+
+If you want more scripts feel free to open a [pull request](https://github.com/KaptianCore/textspam/pulls) with the file in there or for personal use just put it in the src/scripts folder and it will automatically be put in the random choice for the script to print out.
