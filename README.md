@@ -11,8 +11,7 @@ Run The Script!
 
 ```py autotypescript.py```
 
-Now Wait 5 Seconds And It Will Randomly Pick A Script From The Directory And Type It Out Line By Line,
-To Exit/Stop It Click Escape.
+Now it will print all the scripts that are in the script directory, type one out and then in 5 seconds it will start the typing. To stop it click escape a few times until it stops.
 
 ## Want More Scripts?
 
