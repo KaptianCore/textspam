@@ -5,7 +5,7 @@ import os
 cwd = os.getcwd()
 scripts = os.listdir(f"{cwd}/scripts")
 for item in scripts:
-    print(item)
+    print(f"- {item}")
 scriptChoice = input("Script: ")
 if scriptChoice not in scripts:
     print("That doesn't seem to be an option.")
